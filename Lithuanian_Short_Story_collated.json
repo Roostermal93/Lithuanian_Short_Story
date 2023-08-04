@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "5a037bf8-e683-4551-a1e6-790f77a08f8d",
+            "collectionId": "Lithuanian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Short_Story/5a037bf8-e683-4551-a1e6-790f77a08f8d/5a037bf8-e683-4551-a1e6-790f77a08f8d_lt_Male.mp4"
+        },
+        {
+            "id": "5f568d07-c8dc-452c-a184-b06478148400",
+            "collectionId": "Lithuanian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Short_Story/5f568d07-c8dc-452c-a184-b06478148400/5f568d07-c8dc-452c-a184-b06478148400_lt_Male.mp4"
+        },
+        {
+            "id": "3d183b11-765a-436d-bf16-68f33db7dc3d",
+            "collectionId": "Lithuanian",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Short_Story/3d183b11-765a-436d-bf16-68f33db7dc3d/3d183b11-765a-436d-bf16-68f33db7dc3d_lt_Male.mp4"
+        }
+    ]
+}
